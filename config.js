@@ -4,5 +4,5 @@ window.GAME_CONFIG = {
   defaultMinutes: 10,
   settingsPassword: 'safetybox',
   dataFile: 'cards.csv',
-  sampleContent: true // Change to false after replacing cards.csv with approved work data.
+  sampleContent: false // Change to false after replacing cards.csv with approved work data.
 };
