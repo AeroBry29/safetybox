@@ -1,42 +1,42 @@
-Chapter Ref,Chapter Name,Concept,Card #,Post-it Card Scenario
-1,Management Commitment & Review,Safety Policy,1,The CEO signs our annual Safety Commitment Statement & reviews quarterly performance
-1,Management Commitment & Review,Safety Policy,2,Executive leadership allocating budget for workplace safety improvements
-2,Appointment of Key Personnel,Role and Responsibilites,3,Formally appointing an On-site First Aid Officer & Safety Representative
-2,Appointment of Key Personnel,Role and Responsibilites,4,Issuing formal written safety responsibility letters to department managers
-3,Legal Requirements,The regulations we have to follow,5,Checking the WHS/OSHA Act to update our workplace asbestos standard
-3,Legal Requirements,The regulations we have to follow,6,Maintaining an up-to-date Legal Compliance Register for state safety laws
-4,Supplier/Contractor Management,Assessing if contractor is right before outsourcing,7,Checking a contractor's insurance and safety record before hiring them
-4,Supplier/Contractor Management,Assessing if contractor is right before outsourcing,8,Conducting a pre-work safety briefing with temporary electrician contractors
-5,Records & Doc Management,Forms and Processes,9,Archiving completed daily forklift inspection checklists for 3 years
-5,Records & Doc Management,Forms and Processes,10,Ensuring only the latest version of a Safety Procedure is published on the intranet
-6,Emergency Planning & Response,Fire and First Aid,11,Running a building evacuation drill & inspecting fire extinguishers
-6,Emergency Planning & Response,Fire and First Aid,12,"Maintaining warden hats, emergency maps, and first aid kit stock levels"
-7,Hazard & Risk Management,"Confined Space Entry, Hazardous Chemicals, PPE...",13,Completing a Take 5 or JSEA before starting a non-routine high-risk job
-7,Hazard & Risk Management,"Confined Space Entry, Hazardous Chemicals, PPE...",14,Applying the Hierarchy of Controls to eliminate a trips and fall risk
-7.1,Confined Space Entry,Confined Space Entry,15,Testing atmospheric gas levels and issuing an entry permit for a storage tank
-7.1,Confined Space Entry,Confined Space Entry,16,Stationing a trained standby observer outside a vessel during maintenance
-7.2,Hazardous Chemicals,Hazardous Chemicals,17,Checking the Safety Data Sheet (SDS) binder before handling a new solvent
-7.2,Hazardous Chemicals,Hazardous Chemicals,18,Ensuring all decanted chemical bottles have correct safety hazard labels
-8,Health Management,"Health Monitoring, Alcohol & Drugs, Ergonomics...",19,Providing baseline hearing tests and workstation ergonomic assessments
-8,Health Management,"Health Monitoring, Alcohol & Drugs, Ergonomics...",20,Implementing a confidential Employee Assistance Program (EAP) for mental health
-9,Management of Change,Changing the ways of working,21,Assessing safety risks and retraining staff before installing a new automated machine
-9,Management of Change,Changing the ways of working,22,Reviewing hazard controls when changing operational shift patterns from day to night
-10,Incident Reporting & Investigation,When there's an injury or an illness,23,Reporting a slip-and-fall near-miss on the online reporting tool within 24 hours
-10,Incident Reporting & Investigation,When there's an injury or an illness,24,Conducting a 5-Why root cause analysis following a minor hand injury
-11,Objectives & Targets,KPIs,25,Targeting 100% completion of mandatory safety refreshers for Q3
-11,Objectives & Targets,KPIs,26,Tracking leading vs lagging indicators on the monthly management dashboard
-12,Audit & Inspection,Verification,27,Conducting a monthly workplace safety walkthrough using a standard checklist
-12,Audit & Inspection,Verification,28,Hosting an external ISO 45001 auditor to review system compliance
-13,Communication/Consultation,"Events, Engagement, Committee",29,Discussing weekly safety topics and hazard callouts during morning toolbox talks
-13,Communication/Consultation,"Events, Engagement, Committee",30,Publishing a monthly safety news bulletin featuring team hazard wins
-13.1,SH&W Committees,SH&W Committees,31,Elected worker reps and managers meeting bi-monthly to review site hazards
-13.1,SH&W Committees,SH&W Committees,32,Posting committee meeting minutes and action tracking lists on noticeboards
-14,Training & Education,Learning about Safety,33,Completing mandatory site safety induction before getting access badges
-14,Training & Education,Learning about Safety,34,Delivering practical hands-on fire extinguisher refresher training
-14.1,Minimum SH&W Training (APAC),Minimum SH&W Training (APAC),35,Ensuring all regional staff complete the baseline APAC legal safety module
-14.1,Minimum SH&W Training (APAC),Minimum SH&W Training (APAC),36,Auditing training matrix records to ensure no regional certifications have expired
-15,Occupational Environment,Operational Environmental Procedure,37,Properly containing oil spills with absorbent booms and managing waste disposal
-15,Occupational Environment,Operational Environmental Procedure,38,Monitoring workshop noise levels and ventilation system exhaust filters
-Distractor,,,39,Bypassing a safety guard on a machine to finish the production run faster
-Distractor,,,40,Ignoring a chemical spill in the hallway because 'it's not my job to clean'
-Distractor,,,41,Filing away an injury report without telling anyone or investigating root cause
+﻿"Chapter Ref","Chapter Name","Concept","Card #","Post-it Card Scenario"
+"1","Management Commitment & Review","Safety Policy","1","The CEO signs our annual Safety Commitment Statement & reviews quarterly performance"
+"1","Management Commitment & Review","Safety Policy","2","Executive leadership allocating budget for workplace safety improvements"
+"2","Appointment of Key Personnel","Role and Responsibilities","3","Formally appointing an On-site First Aid Officer & Safety Representative"
+"2","Appointment of Key Personnel","Role and Responsibilities","4","Issuing formal written safety responsibility letters to department managers"
+"3","Legal Requirements","The regulations we have to follow","5","Checking the WHS/OSHA Act to update our workplace asbestos standard"
+"3","Legal Requirements","The regulations we have to follow","6","Maintaining an up-to-date Legal Compliance Register for state safety laws"
+"4","Supplier/Contractor Management","Assessing if contractor is right before outsourcing","7","Checking a contractor's insurance and safety record before hiring them"
+"4","Supplier/Contractor Management","Assessing if contractor is right before outsourcing","8","Conducting a pre-work safety briefing with temporary electrician contractors"
+"5","Records & Doc Management","Forms and Processes","9","Archiving completed daily forklift inspection checklists for 3 years"
+"5","Records & Doc Management","Forms and Processes","10","Ensuring only the latest version of a Safety Procedure is published on the intranet"
+"6","Emergency Planning & Response","Fire and First Aid","11","Running a building evacuation drill & inspecting fire extinguishers"
+"6","Emergency Planning & Response","Fire and First Aid","12","Maintaining warden hats, emergency maps, and first aid kit stock levels"
+"7","Hazard & Risk Management","Confined Space Entry, Hazardous Chemicals, PPE...","13","Completing a Take 5 or JSEA before starting a non-routine high-risk job"
+"7","Hazard & Risk Management","Confined Space Entry, Hazardous Chemicals, PPE...","14","Applying the Hierarchy of Controls to eliminate a trip-and-fall risk"
+"7.1","Confined Space Entry","Confined Space Entry","15","Testing atmospheric gas levels and issuing an entry permit for a storage tank"
+"7.1","Confined Space Entry","Confined Space Entry","16","Stationing a trained standby observer outside a vessel during maintenance"
+"7.2","Hazardous Chemicals","Hazardous Chemicals","17","Checking the Safety Data Sheet (SDS) binder before handling a new solvent"
+"7.2","Hazardous Chemicals","Hazardous Chemicals","18","Ensuring all decanted chemical bottles have correct safety hazard labels"
+"8","Health Management","Health Monitoring, Alcohol & Drugs, Ergonomics...","19","Providing baseline hearing tests and workstation ergonomic assessments"
+"8","Health Management","Health Monitoring, Alcohol & Drugs, Ergonomics...","20","Implementing a confidential Employee Assistance Program (EAP) for mental health"
+"9","Management of Change","Changing the ways of working","21","Assessing safety risks and retraining staff before installing a new automated machine"
+"9","Management of Change","Changing the ways of working","22","Reviewing hazard controls when changing operational shift patterns from day to night"
+"10","Incident Reporting & Investigation","When there's an injury or an illness","23","Reporting a slip-and-fall near-miss on the online reporting tool within 24 hours"
+"10","Incident Reporting & Investigation","When there's an injury or an illness","24","Conducting a 5-Why root cause analysis following a minor hand injury"
+"11","Objectives & Targets","KPIs","25","Targeting 100% completion of mandatory safety refreshers for Q3"
+"11","Objectives & Targets","KPIs","26","Tracking leading vs lagging indicators on the monthly management dashboard"
+"12","Audit & Inspection","Verification","27","Conducting a monthly workplace safety walkthrough using a standard checklist"
+"12","Audit & Inspection","Verification","28","Hosting an external ISO 45001 auditor to review system compliance"
+"13","Communication/Consultation","Events, Engagement, Committee","29","Discussing weekly safety topics and hazard callouts during morning toolbox talks"
+"13","Communication/Consultation","Events, Engagement, Committee","30","Publishing a monthly safety news bulletin featuring team hazard wins"
+"13.1","SH&W Committees","SH&W Committees","31","Elected worker reps and managers meeting bi-monthly to review site hazards"
+"13.1","SH&W Committees","SH&W Committees","32","Posting committee meeting minutes and action tracking lists on noticeboards"
+"14","Training & Education","Learning about Safety","33","Completing mandatory site safety induction before getting access badges"
+"14","Training & Education","Learning about Safety","34","Delivering practical hands-on fire extinguisher refresher training"
+"14.1","Minimum SH&W Training (APAC)","Minimum SH&W Training (APAC)","35","Ensuring all regional staff complete the baseline APAC legal safety module"
+"14.1","Minimum SH&W Training (APAC)","Minimum SH&W Training (APAC)","36","Auditing training matrix records to ensure no regional certifications have expired"
+"15","Occupational Environment","Operational Environmental Procedure","37","Properly containing oil spills with absorbent booms and managing waste disposal"
+"15","Occupational Environment","Operational Environmental Procedure","38","Monitoring workshop noise levels and ventilation system exhaust filters"
+"Distractor","","","39","Bypassing a safety guard on a machine to finish the production run faster"
+"Distractor","","","40","Ignoring a chemical spill in the hallway because 'it's not my job to clean'"
+"Distractor","","","41","Filing away an injury report without telling anyone or investigating root cause"
